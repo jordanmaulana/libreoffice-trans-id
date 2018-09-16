@@ -15,6 +15,7 @@ custom = tersuai (misal : custom color = warna tersuai)
 
 D
 default = baku, bawaan
+delimiter = pembatas
 description = deskripsi, keterangan
 digital = digital
 disable = matikan
@@ -60,7 +61,7 @@ M
 margin = batasan
 
 N
-
+number = angka
 
 O
 option = opsi, pilihan
@@ -75,16 +76,20 @@ Q
 
 
 R
+radix = akar
 recent = baru-baru ini, terkini
 region = wilayah
+range = rentang
 restart = mulai ulang
 row = baris
+
 
 S
 setting = pengaturan
 shape = bentuk
 shortcut = pintasan
 slide = salindia
+separator = pemisahh
 
 T
 template = templat
@@ -97,7 +102,7 @@ user = pengguna
 username = nama pengguna
 
 V
-
+view = tampilan
 
 W
 worksheet = lembar kerja
